@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="io_set_item">
+    <io_set_item action="INSERT_OR_UPDATE">
+        <order>100</order>
+        <sc_cat_item display_value="multirow attachment test">5151d37f83541e10032bb4a6feaad334</sc_cat_item>
+        <sys_class_name>io_set_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-04 17:47:18</sys_created_on>
+        <sys_id>1b811b3783941e10032bb4a6feaad353</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Asset list.multirow attachment test</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>io_set_item_1b811b3783941e10032bb4a6feaad353</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-04 17:47:18</sys_updated_on>
+        <variable_set display_value="Asset list">6771933f83141e10032bb4a6feaad3e5</variable_set>
+    </io_set_item>
+</record_update>
